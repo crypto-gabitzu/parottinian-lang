@@ -1,2 +1,2 @@
 # parottinian-lang
-Open source language :D
+Open source and simple language :D
